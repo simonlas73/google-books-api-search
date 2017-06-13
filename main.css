@@ -1,0 +1,26 @@
+body {
+  padding-top: 30px;
+}
+
+.book {
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
+.authors {
+  font-weight: bold;
+}
+
+.description {
+  margin-top: 10px;
+}
+
+#cart,
+.show-book,
+a.title {
+  cursor:pointer;
+}
